@@ -73,7 +73,7 @@ docs/                 теория, план и роли, правила, ста
 ## Документы
 
 - [docs/theory.md](docs/theory.md) — минимум теории с разобранными примерами
-- [docs/plan-and-roles.md](docs/plan-and-roles.md) — роли, план по неделям, вопросы к Парфенову
+- [docs/plan-and-roles.md](docs/plan-and-roles.md) — требования, пары и план по неделям
 - [docs/workflow.md](docs/workflow.md) — как работаем: git, нейросети, когда задача считается готовой
 - [docs/benchmarks.md](docs/benchmarks.md) — первые замеры и выводы
 - [docs/papers/](docs/papers/) — статьи и конспекты
